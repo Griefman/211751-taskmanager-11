@@ -6,3 +6,6 @@
 *.webp binary
 *.woff binary
 *.woff2 binary
+# Файлы сборки (допишите самостоятельно)
+public/bundle.js
+public/bundle.js.map
