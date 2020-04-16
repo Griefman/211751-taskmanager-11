@@ -38,4 +38,3 @@ export const createFilterTemplate = () => {
     ${filtersMarkup}
   </section>`;
 };
-
